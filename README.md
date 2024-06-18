@@ -3,7 +3,7 @@
 
 [Axait-th]: https://github.com/axait
 
-![Logo_Without_Background_black](https://github.com/axait/Authchimp_v1.0/assets/140580384/97bd093f-9dc8-4d43-b004-67ec1f913e99)
+![Logo_Without_Background_black](https://github.com/axait/Authchimp/assets/140580384/6f53d513-362f-4160-ace5-5f0f1715221f)
 
 # Installation:
 
