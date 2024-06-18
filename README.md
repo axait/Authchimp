@@ -3,7 +3,7 @@
 
 [Axait-th]: https://github.com/axait
 
-![Logo_Without_Background_black](https://github.com/sqlitebrowser/sqlitebrowser/assets/140580384/9f56a463-8936-4154-9771-032e89777b72)
+![Logo_Without_Background_black](https://github.com/axait/Authchimp_v1.0/assets/140580384/97bd093f-9dc8-4d43-b004-67ec1f913e99)
 
 # Installation:
 
